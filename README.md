@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Recipe App GIF:
-![Uploading RecipeAppMozillaFirefox2024-01-1119-00-55-ezgif.com-video-to-gif-converter.gif…]()
+![RecipeAppMozillaFirefox2024-01-1119-00-55-ezgif com-video-to-gif-converter](https://github.com/vigneshkrishnan842/Recipe-App/assets/12878201/689bcc02-332f-4bcc-a97c-563fe54eec06)
 
 ## Development server
 
